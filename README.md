@@ -4,7 +4,7 @@ Site de página única estilo blog feito com HTML e CSS, criado para apresentar 
 
 ## 🔗 Acesse o site
 
-👉 [clube-nerditerario.vercel.app](https://vercel.com/gabrielaluzms-projects/clube-nerditerario-das-duas-blog) 
+👉 [clube-nerditerario.vercel.app](https://clube-nerditerario-das-duas-blog.vercel.app/) 
 
 ## 🔧 Tecnologias
 
