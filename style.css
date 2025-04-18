@@ -1,29 +1,117 @@
+*{
+    font-family: 'Montserrat';
+}
 
+body {
+    background: linear-gradient(135deg, #a36e5e, #52372f);
+}
 
+.conteiner {
+    background-color: #FCFCFC;
+    max-width: 1100px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
 
+.bold {
+    font-weight: bold;
+}
 
+.header {
+    text-align: center;
+}
 
+.titulo-principal {
+    font-size: 40px;
+    text-align: center;
+}
 
+.paragrafo-principal {
+    font-style: italic;
+    text-align: center;
+}
 
+.imagem-cabecalho {
+    text-align: center;
+    margin-top: 30px;
+}
 
+.main {}
 
+.biografia-conteiner {
+    padding: 20px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #644339;
+    border-bottom: 1px dashed #644339;
+}
 
+.citacao-container {
+    background-color: #644339  ;
+    color: #FCFCFC;
+    padding: 30px;
 
+}
 
+.citacao-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
 
+.citacao-container p {
+    font-style: italic;
+}
 
+.curiosidades-container {
+    padding: 20px 0;
+    margin: 20px 0;
+    border-top: 1px dashed #644339;
+    border-bottom: 1px dashed #644339;
+}
 
+.curiosidades-container li {
+    height: 30px;
+}
 
+.imagem-secundaria {
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.mais-informacoes {
+    text-align: center;
+    margin: 30px 0;
+    padding-bottom: 30px;
+}
+
+.mais-informacoes p {
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.botao {
+    background-color: #644339;
+    padding: 16px 32px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.botao:hover {
+    background-color: #a36e5e;
+}
 
 
 #copyright {
-    background-color: #1F2421;
-    color: #FFFFFF;
+    border-top: 1px dashed #644339;
+    background-color: #FCFCFC;
+    color: #644339;
     text-align: center;
     padding: 24px;
 }
 
 #copyright a {
-    color: #77D898;
+    color: #4a854d;
     text-decoration: none;
 }
